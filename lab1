@@ -1,0 +1,22 @@
+Instructivo
+
+ls/dir        - comando por listar lo que hay en el directorio
+mkdir nombre  - hacer un directorio con su nombre
+cd nombre     - cambiar el directorio
+pwd           - directorio actual
+rm            - borrar archivo
+cd..          - directorio anterior
+cd../../..    - 3 direcciones anteriores
+
+i   - insertar
+x   - borrar
+R   - remplazar
+:wq - salir y guardar
+:q! - salir y no guardar nada
+$   - ir a la ultima linea
+o   - abre renglon de abajo
+O   - abre renglon de arriba
+dd  - borrar la linea donde estoy
+/palabra  - busca la palabra
+n   - proxima aparicion de la palabra
+
