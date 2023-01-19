@@ -1,4 +1,4 @@
-:#==========================================
+#==========================================
 # La clase A tiene tres numeros reales
 #==========================================
 class A:
@@ -25,7 +25,7 @@ class B:
      #========================================
      # Metodo sumar todo (internos + externos)
      #========================================
-     def sumar_todo(self, aa:float, bb:float):
+    def sumar_todo(self, aa:float, bb:float):
          x:float=self.d+self.e+aa+bb
          return x
 
