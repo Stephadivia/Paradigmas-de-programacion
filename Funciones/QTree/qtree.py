@@ -98,13 +98,6 @@ class QTree():
         plt.show()
         return
 
-qtree = Qtree(2,200)
+qtree = QTree(2,200)
 qtree.subdividir()
 qtree.visualizacion()
-
-
-
-
-
-
-
