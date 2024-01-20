@@ -39,7 +39,7 @@ print("vamos a sumar esto" + "con esto otro")
 
 if 100 > 99 and \
         200 <= 300 and \
-        True != False:
+        True != False: # distinto a !=
             print( 'Hello World!')
 
 #===================================================
