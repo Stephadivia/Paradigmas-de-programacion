@@ -66,7 +66,7 @@ def muchos_saludos(*nombres):
     """Esta funcion saluda a todos los que quieras"""
     i = 0
     #==================================
-    # end= es para ponerlo de corrido
+    # end= es para ponerlo de corrido, que lis nombres salgan en una sola oracion
     #==================================
     print("Hola ", end="")
     while len(nombres) > i:
@@ -76,7 +76,7 @@ def muchos_saludos(*nombres):
         else:
             #Cualquier otro nombre
             print(nombres[i], end=", ")
-            i+=1
+        i+=1
 muchos_saludos("Bosco", "Angel", "David", "Tamara", "Mili", "Edwin", "Lev", "Luis", "Abigail")
 
 def greet(firstname, lastname):
